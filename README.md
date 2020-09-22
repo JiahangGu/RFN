@@ -3,7 +3,7 @@ This repo is for RFN introduced in the following paper
 
 Residual Fractal Network for Single Image Super Resolution by Widening and Deepening, ICPR 2020
 
-The code is built on [EDSR(PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [RCAN(PyTorch)](https://github.com/yulunzhang/RCAN), and trained/tested on Ubuntu 16.04 environment (Python3.6, PyTorch1.1.0, cudatoolkit9.0) with RTX1080Ti.
+The code is built on [EDSR(PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [RCAN(PyTorch)](https://github.com/yulunzhang/RCAN), and trained/tested on Ubuntu 16.04 environment (Python3.6, PyTorch1.1.0, cudatoolkit9.0) with GTX1080Ti.
 
 ### Contents
 
