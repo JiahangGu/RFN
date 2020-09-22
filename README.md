@@ -93,21 +93,21 @@ CUDA_VISIBLE_DEVICES=0 python main.py --data_test MyImage --scale 4 --model DRFN
 
 ##### Quantitative Results with BI degradation model. Best and second best results are highlighted and underlined
 
-![image-20200922114502189](./figs/BI_result.png)
+![BI_result](https://github.com/JiahangGu/RFN/blob/master/figs/BI_result.png?raw=true)
 
 ##### Quantitative Results with BD degradation model. Best and second best results are highlighted and underlined
 
-![image-20200922114443378](./figs/BD_result.png)
+![BD_result](https://github.com/JiahangGu/RFN/blob/master/figs/BD_result.png?raw=true)
 
 ##### Visual Results
 
-![wrfn_visual_1](./figs/wrfn_visual_1.png)
+![wrfn_visual_1](https://github.com/JiahangGu/RFN/blob/master/figs/wrfn_visual_1.png?raw=true)
 
-![wrfn_visual_2](./figs/wrfn_visual_2.png)
+![wrfn_visual_2](https://github.com/JiahangGu/RFN/blob/master/figs/wrfn_visual_2.png?raw=true)
 
-![wrfn_visual_3](./figs/wrfn_visual_3.png)
+![wrfn_visual_3](https://github.com/JiahangGu/RFN/blob/master/figs/wrfn_visual_3.png?raw=true)
 
-![drfn_visual](./figs/drfn_visual.png)
+![drfn_visual](https://github.com/JiahangGu/RFN/blob/master/figs/drfn_visual.png?raw=true)
 
 For more results, please download from [Baidu Netdisk](https://pan.baidu.com/s/1O0SkU9ixT0lkHS-Y7pgbKg) with extraction code 4p3e. The SR results produced by previous methods  are also provided.
 
